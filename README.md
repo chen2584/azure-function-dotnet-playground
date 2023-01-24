@@ -1,4 +1,4 @@
-# azure-function-playground
+# azure-function-dotnet-playground
 
 ### Generate Function
 ```ssh
